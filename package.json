@@ -31,7 +31,7 @@
     "mongo-connect": "0.0.6",
     "mongodb": "^3.5.6",
     "nodemon": "^2.0.3",
-    "sanitize-html": "^1.23.0",
+    "sanitize-html": "^2.3.2",
     "socket.io": "^2.3.0",
     "validator": "^13.0.0",
     "webpack": "^4.42.1",
